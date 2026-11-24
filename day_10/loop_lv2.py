@@ -21,4 +21,4 @@ for i in range(101):
         total_odd+=i
 
 print(f"The sum of all even numbers from 0 to 100 is {total_even}")
-print(f"The sum of all odd numbers from 0 to 100 is {total_odd}")
+print(f"The sum of all even numbers from 0 to 100 is {total_odd}")
